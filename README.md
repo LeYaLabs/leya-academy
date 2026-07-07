@@ -19,7 +19,7 @@ Learn to build your own AI assistant from scratch.
 | **Level 3** | $79 | Automation, custom skills, watchdog, environment sensors, multi-model routing |
 | **Level 4** | $149 | ESP32 sensors, wake word, trading bot, multi-agent, Full LeYa System |
 
-→ **[Start Learning (Free)](https://shepherdess07.gumroad.com/l/hwbvil)**
+→ **[Start Learning (Free)](https://leyaacademy.gumroad.com/l/hwbvil)**
 
 ---
 
