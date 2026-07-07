@@ -1,3 +1,5 @@
+<p align="center"><img src="resources/banner.svg" alt="LeYa AI" width="100%"></p>
+
 ## 👁️ LeYa AI — Local-First AI Assistant Ecosystem
 
 **Build your own AI, step by step. Cloud-assisted start → fully local finish. 5 free lessons. RO+EN.**
